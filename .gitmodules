@@ -1,0 +1,7 @@
+[submodule "tools/lldb"]
+	path = tools/lldb
+	url = git@github.com:vvlevchenko/lldb.git
+        branch = lldb-kotlin-evoluation
+[submodule "tools/clang"]
+	path = tools/clang
+	url = https://git.llvm.org/git/clang
