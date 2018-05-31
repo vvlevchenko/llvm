@@ -1,0 +1,10 @@
+[submodule "tools/clang"]
+	path = tools/clang
+	url = https://git.llvm.org/git/clang
+[submodule "tools/lldb"]
+	path = tools/lldb
+	url = git@github.com:vvlevchenko/lldb.git
+	branch = lldb-kotlin-dwarf
+[submodule "tools/lld"]
+	path = tools/lld
+	url = git@github.com:vvlevchenko/lld.git
