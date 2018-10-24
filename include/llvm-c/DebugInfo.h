@@ -114,7 +114,8 @@ typedef enum {
   // Vendor extensions:
   LLVMDWARFSourceLanguageMips_Assembler,
   LLVMDWARFSourceLanguageGOOGLE_RenderScript,
-  LLVMDWARFSourceLanguageBORLAND_Delphi
+  LLVMDWARFSourceLanguageBORLAND_Delphi,
+  LLVMDWARFSourceLanguageLLVM_Kotlin
 } LLVMDWARFSourceLanguage;
 
 /**
